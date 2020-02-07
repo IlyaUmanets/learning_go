@@ -11,6 +11,8 @@
 - strings
 - sum
 
+To run a single script go to `first_steps` folder and run `go run even.go` in example
+
 ### Even
 
 Write a function which takes an integer and halves it and returns true if it was even or false if it was odd.
@@ -40,6 +42,8 @@ What would its function signature look like in Go?
 # Rest API
 
  We are building a simple REST-API with Golang a router package called Mux. The main resource we're going to work with is `post`
+ 
+ Go to `rest_api` folder, run `go install`, then run `go run main.go` and use the Postman for testing purposes.
  
 *Available endpoints*
 
